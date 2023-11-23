@@ -8,7 +8,8 @@ echo _________________________________________________
 cat testscript.sh
 echo _________________________________________________
 echo removing the folder now ...
+echo deleted the testfolder
 rm -rf  testfolder
 echo showing you the list of files and folders ...
 ls -lrta
-echo deleted the testfolder
+
