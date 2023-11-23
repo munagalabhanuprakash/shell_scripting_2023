@@ -1,7 +1,7 @@
 #bin/bash
-mkdir testfolder2
+mkdir testfolder
 ls -lrta
 cat ls.sh
-rm -rf  testfolder2
+rm -rf  testfolder
 ls -lrta
 
