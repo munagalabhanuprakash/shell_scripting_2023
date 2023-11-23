@@ -3,8 +3,7 @@ mkdir testfolder
 echo created a testfolder
 #******************************#
 ls -lrta
-
-#This is teh script below
+#This is the script below
 cat testscript.sh
 rm -rf  testfolder
 echo Deleted a testfolder
