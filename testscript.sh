@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 mkdir testfolder
 ls -lrta
-cat ls.sh
+cat testscript.sh
 rm -rf  testfolder
 ls -lrta
 
