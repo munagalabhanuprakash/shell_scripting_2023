@@ -22,6 +22,6 @@ echo -e "\e[31mText is in Red color \e[0mColor is cleared now"
 
 #command for variables
 var1 = date
-Todays date is $(var1)
+echo Todays date is $(var1)
 
 
