@@ -20,3 +20,8 @@ echo -e "line1\nline2\nline3"
 #command for printing colors on teh console
 echo -e "\e[31mText is in Red color \e[0mColor is cleared now"
 
+#command for variables
+var1 = date
+Todays date is $(var1)
+
+
