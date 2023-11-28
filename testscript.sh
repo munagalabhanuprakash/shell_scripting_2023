@@ -21,7 +21,7 @@ echo -e "line1\nline2\nline3"
 echo -e "\e[31mText is in Red color \e[0mColor is cleared now"
 
 #command for variables
-VR=28-22-2023
+VR=28-11-2023
 echo Todays date is ${VR}
 
 VRR=$(date)
