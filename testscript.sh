@@ -24,4 +24,7 @@ echo -e "\e[31mText is in Red color \e[0mColor is cleared now"
 VR=date
 echo Todays date is ${VR}
 
+VRR=$(date)
+
+echo Tdays date is $VRR
 
