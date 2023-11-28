@@ -30,4 +30,4 @@ echo Tdays date is ${VRR}
 
 VRRR=$((5+6))
 
-echo Todays date is ${VRRR}
+echo Sum is ${VRRR}
