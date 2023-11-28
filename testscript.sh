@@ -26,5 +26,5 @@ echo Todays date is ${VR}
 
 VRR=$(date)
 
-echo Tdays date is $VRR
+echo Tdays date is ${VRR}
 
