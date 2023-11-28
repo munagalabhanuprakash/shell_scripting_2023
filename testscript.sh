@@ -32,4 +32,4 @@ VRRR=$((5+6))
 
 echo Sum is ${VRRR}
 
-echo date is $date
+echo date is $(date)
