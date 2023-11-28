@@ -31,3 +31,5 @@ echo Tdays date is ${VRR}
 VRRR=$((5+6))
 
 echo Sum is ${VRRR}
+
+echo date is $date
