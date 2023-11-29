@@ -39,6 +39,16 @@ echo date is $(date)
 readvar=100
 echo ${readvar}
 
-readvar=200
-echo ${readvar}
+writevar=200
+echo ${writevar}
+
+#Readonly variable
+
+readonly readonlyvar=101
+
+echo ${readonlyvar}
+
+readonly readonlyvar=102
+
+echo ${readonlyvar}
 
