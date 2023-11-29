@@ -52,3 +52,10 @@ readonlyvar=102
 
 echo ${readonlyvar}
 
+#scalar varible
+
+b=(10 20 30)
+
+echo $(b[0])
+echo $(b[1])
+echo $(b[2])
