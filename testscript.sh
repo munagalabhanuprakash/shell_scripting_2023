@@ -48,7 +48,7 @@ readonly readonlyvar=101
 
 echo ${readonlyvar}
 
-readonly readonlyvar=102
+readonlyvar=102
 
 echo ${readonlyvar}
 
