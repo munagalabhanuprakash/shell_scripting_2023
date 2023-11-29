@@ -33,3 +33,12 @@ VRRR=$((5+6))
 echo Sum is ${VRRR}
 
 echo date is $(date)
+
+#Readdwrite variable
+
+readvar=100
+echo ${readvar}
+
+readvar=200
+echo ${readvar}
+
