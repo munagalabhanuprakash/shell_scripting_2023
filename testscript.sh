@@ -65,3 +65,10 @@ read -p "Enter your firstname : " fname
 read -p "Enyter your Lastname : " lname
 
 echo Your full name is ${fname} ${lname}
+
+#Before Execution by using special variables, Special Variables are from $0 to $n
+
+echo first argument is $1
+echo second argument is $2
+
+
