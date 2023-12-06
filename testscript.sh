@@ -61,7 +61,7 @@ echo ${b[1]}
 echo ${b[2]}
 
 #Befroe execution command
-read-p "Enter your firstname : " fname
-read-q "Enyter your Lastname : " lname
+read -p "Enter your firstname : " fname
+read -p "Enyter your Lastname : " lname
 
 echo ${fname} ${lname}
