@@ -68,7 +68,9 @@ echo Your full name is ${fname} ${lname}
 
 #Before Execution by using special variables, Special Variables are from $0 to $n
 
+echo script name = $0
 echo first argument is $1
 echo second argument is $2
+
 
 
