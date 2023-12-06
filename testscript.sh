@@ -59,3 +59,9 @@ b=(10 20 30)
 echo ${b[0]}
 echo ${b[1]}
 echo ${b[2]}
+
+#Befroe execution command
+read -p "Enter your firstname"
+read -q "Enyter your Lastname"
+
+echo ${p} ${q}
