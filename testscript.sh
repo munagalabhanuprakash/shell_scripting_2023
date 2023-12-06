@@ -60,7 +60,7 @@ echo ${b[0]}
 echo ${b[1]}
 echo ${b[2]}
 
-#Befroe execution command
+#During  execution command
 read -p "Enter your firstname : " fname
 read -p "Enyter your Lastname : " lname
 
