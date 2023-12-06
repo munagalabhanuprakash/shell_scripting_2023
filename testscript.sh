@@ -64,4 +64,4 @@ echo ${b[2]}
 read -p "Enter your firstname : " fname
 read -p "Enyter your Lastname : " lname
 
-echo ${fname} ${lname}
+echo Your full name is ${fname} ${lname}
