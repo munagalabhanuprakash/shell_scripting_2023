@@ -34,7 +34,7 @@ echo Sum is ${VRRR}
 
 echo date is $(date)
 
-#Readdwrite variable
+#Readdwrite variable also called as scalar variable
 
 readvar=100
 echo ${readvar}
@@ -52,7 +52,7 @@ readonlyvar=102
 
 echo ${readonlyvar}
 
-#scalar varible
+#vector variable
 
 b=(10 20 30)
 
